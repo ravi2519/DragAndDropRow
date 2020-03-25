@@ -1,0 +1,13 @@
+table {
+  border-collapse:collapse;
+}
+table, td, th {
+  border:1px solid black;
+}
+
+div#add_row {
+  margin-top: 20px;
+  border: 1px solid red;
+  width: 100px;
+  height: 20px;
+}
